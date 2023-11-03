@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deki Tri Rizmawan</h1>
+<h1 align="center">Hi 👋, I'm Deki Rizmawan</h1>
 <h3 align="center">A passionate Bash Shell Linux Programming, Administrator, Database Administrator, Linux</h3>
 <img align="right" alt="Coding" width="400" src="https://systemadminspro.com/wp-content/uploads/2019/10/Blog_Image_Base.gif"
 
