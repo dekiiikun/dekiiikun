@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Bash Shell Linux Programming, Administrator, Database Administrator, Linux</h3>
 <img align="right" alt="Coding" width="400" src="https://systemadminspro.com/wp-content/uploads/2019/10/Blog_Image_Base.gif"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dekiiikun&label=Profile%20views&color=0e75b6&style=flat" alt="dekiiikun" /> </p>
-
 - 🔭 I’m currently working on [palugada](palugada.com)
 
 - 🌱 I’m currently learning **Framework,Cyber Security,**
@@ -15,6 +13,8 @@
 - 📫 How to reach me **nusantara690@gmail.com**
 
 - ⚡ Fun fact **I think I still need to learn**
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dekiiikun&label=Profile%20views&color=0e75b6&style=flat" alt="dekiiikun" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
