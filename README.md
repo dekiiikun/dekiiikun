@@ -4,7 +4,7 @@
 
 <p align="left">
 
-- 🔭 I’m currently working on [palugada](palugada.com)
+- 🔭 I’m currently freelance on [palugada](palugada.com)
 
 - 🌱 I’m currently learning **Framework, Cyber Security, Cryptocurrency**
 
