@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently freelance on [palugada](palugada.com)
 
-- 🌱 I’m currently learning **Framework, Cyber Security, Cryptocurrency**
+- 🌱 I’m currently learning **Cyber Security, Cryptocurrency**
 
 - 📝 I regularly write articles on [dekiiikun.site](dekiiikun.site)
 
